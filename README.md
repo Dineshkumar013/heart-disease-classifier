@@ -27,3 +27,4 @@ Note: Our data has 3 types of data:
 Continuous (#): which is quantitative data that can be measured
 Ordinal Data: Categorical data that has a order to it (0,1,2,3, etc)
 Binary Data: data whose unit can take on only two possible states ( 0 &1 )
+https://colab.research.google.com/drive/10ylUWXAHFVe4Pw4wB9dJwaREON7rORWT?usp=sharing
